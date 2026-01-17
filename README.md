@@ -1,4 +1,3 @@
-```markdown
 # Debugging and Automation with ChatGPT
 
 ## Project Overview
